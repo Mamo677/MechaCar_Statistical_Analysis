@@ -29,5 +29,6 @@ The following PSI metrics for each lot: mean, median, variance, and standard dev
 ![test2](https://user-images.githubusercontent.com/90371048/148509170-55c1ea80-40e8-4d50-9a4d-b7b2ce79c283.PNG)
 ![test3](https://user-images.githubusercontent.com/90371048/148509247-f031ccc7-8339-477f-a9c1-e62fb6f3f86c.PNG)
 ![test_1](https://user-images.githubusercontent.com/90371048/148509277-6abd8b09-2cf5-469a-ac7a-42c9939ea3b8.PNG)
+![plt_box2](https://user-images.githubusercontent.com/90371048/148509506-67413964-8e8e-4da7-969d-d4e294b1aab1.PNG)
 
 
