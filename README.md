@@ -31,9 +31,11 @@ The following PSI metrics for each lot: mean, median, variance, and standard dev
 
 # Deliverable 3:
 #  t-Tests on Suspension Coils
+![Test_all_lot](https://user-images.githubusercontent.com/90371048/148510953-391e3e28-bc00-4f6a-bbee-59cb873013b2.PNG)
+![test_1](https://user-images.githubusercontent.com/90371048/148509277-6abd8b09-2cf5-469a-ac7a-42c9939ea3b8.PNG)
+
 ![test2](https://user-images.githubusercontent.com/90371048/148509170-55c1ea80-40e8-4d50-9a4d-b7b2ce79c283.PNG)
 ![test3](https://user-images.githubusercontent.com/90371048/148509247-f031ccc7-8339-477f-a9c1-e62fb6f3f86c.PNG)
-![test_1](https://user-images.githubusercontent.com/90371048/148509277-6abd8b09-2cf5-469a-ac7a-42c9939ea3b8.PNG)
 
 # Deliverable 4:
 # Metrics
