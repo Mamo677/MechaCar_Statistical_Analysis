@@ -16,11 +16,21 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 ![Summarystatics](https://user-images.githubusercontent.com/90371048/148506844-e50604cc-d47b-4339-b081-97e8e9d7f6e3.PNG)
 
  # Deliverable 2
-              ###
+ # Summary Statistics on Suspension Coils
+ # Deliverable Requirements:  
+ The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using your knowledge of R, you’ll create a summary statistics table to show:
+
+The suspension coil’s PSI continuous variable across all manufacturing lots
+The following PSI metrics for each lot: mean, median, variance, and standard deviation.
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148344941-dd78dc2d-f782-41f4-8c99-48c8e0c91b3c.PNG)
 
              
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148340939-2ffe5a65-d425-4c1f-977d-15798c89a06c.PNG)
+![Lot_summery](https://user-images.githubusercontent.com/90371048/148508685-1662fe44-03e2-4de3-93e9-fa785909bdc9.PNG)
+![Leaner_regesion](https://user-images.githubusercontent.com/90371048/148508730-9dcbd455-3c7e-4794-bf16-7412855495f4.PNG)
+
+![plt_box](https://user-images.githubusercontent.com/90371048/148508524-ab0cfc16-501d-4b12-90cf-aed7187763be.PNG)
+
            
 
 
