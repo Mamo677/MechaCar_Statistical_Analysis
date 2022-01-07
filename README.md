@@ -26,10 +26,6 @@ The following PSI metrics for each lot: mean, median, variance, and standard dev
              
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148340939-2ffe5a65-d425-4c1f-977d-15798c89a06c.PNG)
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148508685-1662fe44-03e2-4de3-93e9-fa785909bdc9.PNG)
-![Leaner_regesion](https://user-images.githubusercontent.com/90371048/148508730-9dcbd455-3c7e-4794-bf16-7412855495f4.PNG)
 
-![plt_box](https://user-images.githubusercontent.com/90371048/148508524-ab0cfc16-501d-4b12-90cf-aed7187763be.PNG)
-
-           
 
 
