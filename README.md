@@ -22,7 +22,6 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
 
 The suspension coil’s PSI continuous variable across all manufacturing lots
 The following PSI metrics for each lot: mean, median, variance, and standard deviation.
-![Lot_summery](https://user-images.githubusercontent.com/90371048/148344941-dd78dc2d-f782-41f4-8c99-48c8e0c91b3c.PNG)
 
              
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148340939-2ffe5a65-d425-4c1f-977d-15798c89a06c.PNG)
