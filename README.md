@@ -26,9 +26,36 @@ The following PSI metrics for each lot: mean, median, variance, and standard dev
              
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148340939-2ffe5a65-d425-4c1f-977d-15798c89a06c.PNG)
 ![Lot_summery](https://user-images.githubusercontent.com/90371048/148508685-1662fe44-03e2-4de3-93e9-fa785909bdc9.PNG)
+
+![plt_box2](https://user-images.githubusercontent.com/90371048/148509506-67413964-8e8e-4da7-969d-d4e294b1aab1.PNG)
+
+# Deliverable 3:
+#  t-Tests on Suspension Coils
 ![test2](https://user-images.githubusercontent.com/90371048/148509170-55c1ea80-40e8-4d50-9a4d-b7b2ce79c283.PNG)
 ![test3](https://user-images.githubusercontent.com/90371048/148509247-f031ccc7-8339-477f-a9c1-e62fb6f3f86c.PNG)
 ![test_1](https://user-images.githubusercontent.com/90371048/148509277-6abd8b09-2cf5-469a-ac7a-42c9939ea3b8.PNG)
-![plt_box2](https://user-images.githubusercontent.com/90371048/148509506-67413964-8e8e-4da7-969d-d4e294b1aab1.PNG)
+
+# Deliverable 4:
+# Metrics
+   # Collecting data for comparable models across all major manufacturers for past 3 years for the following metrics:
+
+Safety Feature Rating: Independent Variable
+Current Price (Selling): Dependent Variable
+Drive Package : Independent Variable
+Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+Resale Value: Independent Variable
+Average Annual Cost of ownership (Maintenance): Independent Variable
+MPG (Gasoline Efficiency): Independent Variable
+# Hypothesis: Null and Alternative
+    After determining which factors are key for the MechaCar's genre:
+
+Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
+Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+# Statistical Tests
+A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price (it may be all of them!)
+
+
+
+
 
 
